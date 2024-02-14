@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBav77TggVRHsFx9TqclbEAiaqviLSbrk8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>81476290675</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.saathiTask</string>
+	<key>PROJECT_ID</key>
+	<string>saathitravelcheck</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saathitravelcheck.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:81476290675:ios:b8faa93c94a29d53d7c206</string>
+</dict>
+</plist>

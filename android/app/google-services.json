@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81476290675",
+    "project_id": "saathitravelcheck",
+    "storage_bucket": "saathitravelcheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81476290675:android:26215a3d8d86e357d7c206",
+        "android_client_info": {
+          "package_name": "com.example.saathi_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD689ttHY8ItX7H757vC1lz8usWAvDrfnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
